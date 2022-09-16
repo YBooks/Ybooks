@@ -7,7 +7,8 @@
 
 <h2><b> Contributed to</b></h2>
 <h3>
-- <a href="https://github.com/huggingface/transformers"> 🤗HuggingFace Transformers</a>
+- <a href="https://github.com/huggingface/transformers"> 🤗HuggingFace Transformers</a> <br>
+- <a href="https://github.com/pytorch/captum"> Facebook  Pytorch Captum</a>
 </h3>
 
 <p align="center">
@@ -20,6 +21,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 <hr>
 <h2><b>My latest posts</b></h2>
 <ul>
+  <li><a href=https://medium.com/@yassineelkhal/entropy-cross-entropy-mutual-information-and-kullback-leibler-divergence-5e76dadd29b5><b>Entropy, Cross-Entropy, Mutual information and Kullback-Leibler divergence</b></a><br/><i>An introduction to information theory</i></li>
   <li><a href=https://medium.com/@yassineelkhal/covariance-correlation-and-r-square-f4d2629574b8><b>Covariance, correlation and R-squared</b></a><br/><i>The complete guide to understand covariance, correlation and R²</i></li>
   <li><a href="https://medium.com/@yassineelkhal/how-your-loan-monthly-payments-are-calculated-7034ccce838"><b>How your loan monthly payments are calculated</b></a><br/><i>Understanding what’s behind the bank rate.</i></li>
     <li><a href="https://medium.com/@yassineelkhal/variance-and-standard-deviation-f4cc7e78b92"><b>Variance and standard deviation</b></a><br/><i>The complete guide to understand variance and standard deviation</i></li>
